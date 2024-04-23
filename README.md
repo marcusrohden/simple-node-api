@@ -13,7 +13,7 @@ This is a simple Node.js API built with Express.js for managing user data. It pr
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/your_username/your_repository.git
+git clone https://https://github.com/marcusrohden/simple-node-api.git
 
 2. Install dependencies:
 npm install
